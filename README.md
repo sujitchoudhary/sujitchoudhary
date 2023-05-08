@@ -1,7 +1,8 @@
 ![logo](https://github.com/sujitchoudhary/sujitchoudhary/blob/main/Welcome%20to%20my%20GitHub%20Page.png)
 <h1 align="center">Hi 👋, I'm Sujit</h1>
 <h3 align="center">I completed my B.Sc. IN general with one subject as Computer Science in the year 2020 from S.R.T.M. University. I'm interested in learning new things and share my knowledge with those around me.</h3>
-
+<img align="right" alt="coding" width="400" 
+src="https://cdn.hashnode.com/res/hashnode/image/upload/v1648657506206/DRT1LznNL.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujitchoudhary&label=Profile%20views&color=0e75b6&style=flat" alt="sujitchoudhary" /> </p>
 
 - 🔭 I’m currently working on **Bank Management System**
