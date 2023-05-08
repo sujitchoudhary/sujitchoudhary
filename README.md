@@ -1,6 +1,6 @@
 ![logo](https://github.com/sujitchoudhary/sujitchoudhary/blob/main/Welcome%20to%20my%20GitHub%20Page.png)
 <h1 align="center">Hi 👋, I'm Sujit</h1>
-<h3 align="center">I completed my B.Sc. with Computer Science in the year 2020 from S.R.T.M. University. I'm interested in learning new things and share my knowledge with those around me.</h3>
+<h3 align="center">I completed my B.Sc. IN general with one subject as Computer Science in the year 2020 from S.R.T.M. University. I'm interested in learning new things and share my knowledge with those around me.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujitchoudhary&label=Profile%20views&color=0e75b6&style=flat" alt="sujitchoudhary" /> </p>
 
