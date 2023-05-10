@@ -1,4 +1,4 @@
-![logo](https://github.com/sujitchoudhary/sujitchoudhary/blob/main/Welcome%20to%20my%20GitHub%20Page.png)
+![logo](https://github.com/sujitchoudhary/sujitchoudhary/blob/main/Welcome%20to%20my.png)
 <h1 align="center">Hi 👋, I'm Sujit</h1>
 <h3 align="center">I completed my B.Sc. IN general with one subject as Computer Science in the year 2020 from S.R.T.M. University. I'm interested in learning new things and share my knowledge with those around me.</h3>
 <img align="right" alt="coding" width="400" 
